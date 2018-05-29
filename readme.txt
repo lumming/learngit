@@ -10,3 +10,4 @@ dev work
 dev two work
 
 cherry-pick dev
+cherry-pick dev~2..dev
