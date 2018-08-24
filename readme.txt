@@ -14,3 +14,5 @@ cherry-pick dev~2..dev
 
 squash
 squash2
+
+push orgin
